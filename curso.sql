@@ -70,6 +70,10 @@ SELECT COUNT(*) FROM tb_aluno WHERE cartao_acesso_versao=2;
 -- 03 - saber o nome e a matricula dos alunos que possuem a versao cartao maior que 04 --
 
 
+site para consultas
+https://risaltte.wordpress.com/2016/12/12/comandos-mysql/
+
+
 
 
 
