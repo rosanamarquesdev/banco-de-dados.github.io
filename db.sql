@@ -1,3 +1,7 @@
+-- OBSERVACOES --
+-- comentarios precisa de ESPACO depois dos --
+-- NAO ACEITA " " (ASPAS DUPLAS)
+
 -- para listar os bancos de dados
 SHOW DATABASES;
 
